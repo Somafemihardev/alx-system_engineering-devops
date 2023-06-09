@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -Ap1 | LC_COLLATE=C sort -d -f -t '/' -k1,1n -k1.2,1#!/bin/bash
 ls -Ap1 | LC_COLLATE=C sort -d -f -t '/' -k1,1n -k1.2,1

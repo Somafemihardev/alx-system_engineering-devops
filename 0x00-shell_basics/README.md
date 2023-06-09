@@ -1,1 +1,1 @@
-A script to delete the directory inside of another directory
+This is to change the directory back to the previous one 

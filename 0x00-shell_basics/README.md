@@ -1,2 +1,1 @@
-This script changes the current users directory to the home directory > README.md
-echo This script changes the current users directory to the home directory
+This script prints the content of a directory in a long format

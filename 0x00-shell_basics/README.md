@@ -1,1 +1,1 @@
-To list fioles using wildcards
+Making a magic file

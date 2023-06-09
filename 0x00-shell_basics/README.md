@@ -1,1 +1,1 @@
-To show the long format,user ID and the group numerically 
+Ascript to make a directory inside another

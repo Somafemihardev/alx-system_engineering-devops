@@ -1,1 +1,1 @@
-A script to show file type
+To create a link

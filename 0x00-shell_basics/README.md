@@ -1,1 +1,1 @@
-This directory shows the scripts
+This script is to list the files of a current working directory

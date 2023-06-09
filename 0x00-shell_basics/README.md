@@ -1,1 +1,1 @@
-This script shows all content of a directory including the hidden files
+To show the long format,user ID and the group numerically 

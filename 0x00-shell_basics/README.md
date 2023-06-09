@@ -1,1 +1,1 @@
-This script is to delete a file from a directory of another direcroty
+A script to delete the directory inside of another directory

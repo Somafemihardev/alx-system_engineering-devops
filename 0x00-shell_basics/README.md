@@ -1,1 +1,2 @@
-This script is to list the files of a current working directory
+This script changes the current users directory to the home directory > README.md
+echo This script changes the current users directory to the home directory

@@ -1,1 +1,1 @@
-To copy all the files that begin with a upper case
+A script that deletes all files beggining with a certain character

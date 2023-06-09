@@ -1,1 +1,1 @@
-To make list of all hidden files
+A script to show file type

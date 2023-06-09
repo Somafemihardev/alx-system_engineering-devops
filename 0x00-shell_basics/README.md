@@ -1,1 +1,1 @@
-Ascript to make a directory inside another
+A script to move the file of a directory to another

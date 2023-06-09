@@ -1,1 +1,1 @@
-This script prints the content of a directory in a long format
+This script shows all content of a directory including the hidden files

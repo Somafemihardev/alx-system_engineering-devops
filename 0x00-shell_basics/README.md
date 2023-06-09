@@ -1,1 +1,1 @@
-A script to make directories inside a directory
+To list fioles using wildcards

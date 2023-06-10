@@ -1,1 +1,1 @@
-TO change the mode of a file 
+To equate the permission of a file to the other

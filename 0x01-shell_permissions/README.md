@@ -1,1 +1,1 @@
-This is a project to decribe the shell permissions
+This script will show the username of the current user

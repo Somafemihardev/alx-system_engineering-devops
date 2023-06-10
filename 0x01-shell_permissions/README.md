@@ -1,1 +1,1 @@
-To change file ownership
+To make an empty file

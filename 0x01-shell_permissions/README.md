@@ -1,1 +1,1 @@
-This script will show the username of the current user
+This script prints all the group a user belongs to 

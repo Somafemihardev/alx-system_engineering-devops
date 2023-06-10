@@ -1,1 +1,1 @@
-To equate the permission of a file to the other
+Permision to all subdirectories of the current directory

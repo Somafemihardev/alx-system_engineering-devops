@@ -1,1 +1,1 @@
-To give execute permisson to everybody
+TO change the mode of a file 

@@ -1,1 +1,1 @@
-This scripts grants multiple shell permissions to the file
+To give execute permisson to everybody
